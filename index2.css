@@ -1,0 +1,8 @@
+.box{
+    border: 10px;
+    border-color: blueviolet;
+    height: 500px;
+    display:flex;
+    justify-content:space-evenly
+
+}
